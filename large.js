@@ -1,9 +1,9 @@
 function largest() {
-    var num1 = Number(document.getElementById("first").value);
-    var num2 = Number(document.getElementById("second").value);
-    var num3 = Number(document.getElementById("third").value);
-    var num4 = Number(document.getElementById("fourth").value);
-    var num5 = Number(document.getElementById("fifth").value);
+    var num1 = (document.getElementById("first").value);
+    var num2 = (document.getElementById("second").value);
+    var num3 = (document.getElementById("third").value);
+    var num4 = (document.getElementById("fourth").value);
+    var num5 = (document.getElementById("fifth").value);
 
 
 
